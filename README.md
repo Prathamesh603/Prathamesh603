@@ -1,16 +1,59 @@
-Prathamesh's Projects
-Welcome to my GitHub profile! I am Prathamesh, an aspiring AI/ML engineer and a student at Sarvajanik College of Engineering & Technology. I specialize in C, C++, Java, Python, and AI/ML. I'm passionate about Data Structures & Algorithms (DSA) and constantly solving problems to improve my skills.
+# Prathamesh's Projects
 
-Feel free to explore my projects, where you’ll find various applications of my knowledge in the domains of machine learning, software development, and algorithmic problem-solving.
+Welcome to my GitHub profile! I'm **Prathamesh**, an aspiring **AI/ML engineer** and a student at **Sarvajanik College of Engineering & Technology**. I specialize in **C**, **C++**, **Java**, **Python**, and **AI/ML**. I am passionate about **Data Structures & Algorithms (DSA)** and actively solve problems to improve my skills.
 
-Skills
-Programming Languages: C, C++, Java, Python
-AI/ML: Machine learning algorithms, data preprocessing, model building
-Data Structures & Algorithms (DSA): Solving problems related to arrays, trees, linked lists, dynamic programming, sorting, and more.
-Projects
-Diabetes Prediction Model: A machine learning project to predict whether a person is diabetic or not based on various health metrics.
-TreeUtils Library: A C++ library for tree-related functions, providing essential utilities for working with binary trees.
-My Approach
-I believe in hands-on learning and approach every project with a problem-solving mindset. By constantly challenging myself with DSA problems, I continue to build efficient and optimized solutions.
+Feel free to explore my projects, where you'll find various applications of my knowledge in machine learning, software development, and algorithmic problem-solving.
 
-Feel free to check out my repositories and contribute! You can also contact me for any collaboration or project discussion.
+---
+
+## Skills
+
+- **Programming Languages:**
+  - C, C++, Java, Python
+
+- **AI/ML:**
+  - Machine learning algorithms
+  - Data preprocessing
+  - Model building (Classification, Regression, etc.)
+
+- **Data Structures & Algorithms (DSA):**
+  - Problem solving in arrays, trees, linked lists, dynamic programming, sorting algorithms, and more.
+
+---
+
+## Projects
+
+### 1. [Diabetes Prediction Model](https://github.com/Prathamesh603/Diabetes-Prediction-Model)
+   - **Description:** A machine learning project that predicts whether a person is diabetic or not based on various health metrics (like age, glucose level, BMI, etc.).
+   - **Technologies Used:**
+     - **Python**, **Scikit-learn**, **SVM Classifier**
+   - **Key Features:**
+     - Dataset: [Diabetes.csv](https://github.com/Prathamesh603/Diabetes-Prediction-Model/blob/main/diabetes.csv)
+     - Model accuracy evaluation
+     - Predictive system using a trained model
+
+### 2. [TreeUtils Library](https://github.com/Prathamesh603/TreeUtils)
+   - **Description:** A C++ library providing essential utilities for working with binary trees.
+   - **Technologies Used:**
+     - **C++**
+   - **Key Features:**
+     - Binary tree creation and traversal
+     - Various tree-related functions and utilities
+
+---
+
+## My Approach
+
+I believe in **hands-on learning** and approach every project with a problem-solving mindset. I constantly challenge myself by solving DSA problems and building efficient, optimized solutions.
+
+If you're interested in collaborating or discussing a project, feel free to contact me!
+
+---
+
+## Connect with Me
+
+- **GitHub:** [Prathamesh603](https://github.com/Prathamesh603)
+- **LinkedIn:** [Prathamesh](https://www.linkedin.com/in/prathamesh-rajput-5364802b6)
+- **Email:** prathamesh@example.com
+
+---

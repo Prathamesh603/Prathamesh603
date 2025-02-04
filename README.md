@@ -54,6 +54,6 @@ If you're interested in collaborating or discussing a project, feel free to cont
 
 - **GitHub:** [Prathamesh603](https://github.com/Prathamesh603)
 - **LinkedIn:** [Prathamesh](https://www.linkedin.com/in/prathamesh-rajput-5364802b6)
-- **Email:** prathamesh@example.com
+- **Email:** prathamrajput709@gmail.com
 
 ---

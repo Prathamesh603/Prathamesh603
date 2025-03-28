@@ -40,7 +40,9 @@ Feel free to explore my projects, where you'll find various applications of my k
      - Binary tree creation and traversal
      - Various tree-related functions and utilities
 
----
+### 3. Surya Namaskar Pose Detection 
+
+A real-time pose detection project that uses a trained model to recognize and analyze Surya Namaskar (Sun Salutation) yoga poses. The system captures live camera input, estimates body angles, and provides feedback on posture accuracy. Ideal for fitness tracking and yoga practice improvement. 
 
 ## My Approach
 

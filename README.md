@@ -22,15 +22,15 @@ Feel free to explore my projects, where you'll find various applications of my k
 ---
 
 ## Projects
+### 1. [Surya Namaskar Pose Detection](https://github.com/Prathamesh603/SuryaNamaskar-Pose-Detection)
 
-### 1. [Diabetes Prediction Model](https://github.com/Prathamesh603/Diabetes-Prediction-Model)
-   - **Description:** A machine learning project that predicts whether a person is diabetic or not based on various health metrics (like age, glucose level, BMI, etc.).
-   - **Technologies Used:**
-     - **Python**, **Scikit-learn**, **SVM Classifier**
-   - **Key Features:**
-     - Dataset: [Diabetes.csv](https://github.com/Prathamesh603/Diabetes-Prediction-Model/blob/main/diabetes.csv)
-     - Model accuracy evaluation
-     - Predictive system using a trained model
+- **Description:** A real-time pose detection project that uses a trained model to recognize and analyze Surya Namaskar (Sun Salutation) yoga poses. The system captures live camera input, estimates body angles, and provides feedback on posture accuracy. Ideal for fitness tracking and yoga practice improvement. 🚀
+- **Technologies Used:**
+ - Python, OpenCV, MediaPipe
+- **Key Features:**
+ - Real-time pose estimation using camera input
+ - Body angle calculation for accurate pose analysis
+ - Feedback mechanism to improve posture
 
 ### 2. [TreeUtils Library](https://github.com/Prathamesh603/TreeUtils)
    - **Description:** A C++ library providing essential utilities for working with binary trees.
@@ -40,17 +40,14 @@ Feel free to explore my projects, where you'll find various applications of my k
      - Binary tree creation and traversal
      - Various tree-related functions and utilities
 
-### 3.[Surya Namaskar Pose Detection](https://github.com/Prathamesh603/SuryaNamaskar-Pose-Detection)
-
-- **Description:** A real-time pose detection project that uses a trained model to recognize and analyze Surya Namaskar (Sun Salutation) yoga poses. The system captures live camera input, estimates body angles, and provides feedback on posture accuracy. Ideal for fitness tracking and yoga practice improvement. 🚀
-
-- **Technologies Used:**
- - Python, OpenCV, MediaPipe
-
-- **Key Features:**
- - Real-time pose estimation using camera input
- - Body angle calculation for accurate pose analysis
- - Feedback mechanism to improve posture
+### 3. [Diabetes Prediction Model](https://github.com/Prathamesh603/Diabetes-Prediction-Model)
+   - **Description:** A machine learning project that predicts whether a person is diabetic or not based on various health metrics (like age, glucose level, BMI, etc.).
+   - **Technologies Used:**
+     - **Python**, **Scikit-learn**, **SVM Classifier**
+   - **Key Features:**
+     - Dataset: [Diabetes.csv](https://github.com/Prathamesh603/Diabetes-Prediction-Model/blob/main/diabetes.csv)
+     - Model accuracy evaluation
+     - Predictive system using a trained model
 
 
 
